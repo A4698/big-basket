@@ -1,0 +1,178 @@
+.sign-up {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sign-up .div {
+  background-color: #ffffff;
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+
+.sign-up .sign-in {
+  height: 108px;
+  left: 816px;
+  position: absolute;
+  top: 763px;
+  width: 288px;
+}
+
+.sign-up .text-wrapper {
+  color: #333333;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 840px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 713px;
+  width: 240px;
+}
+
+.sign-up .text-wrapper-2 {
+  color: #333333;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 840px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 432px;
+  width: 240px;
+}
+
+.sign-up .text-wrapper-3 {
+  color: #333333;
+  font-family: "Inter", Helvetica;
+  font-size: 62px;
+  font-weight: 600;
+  left: 827px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 194px;
+  white-space: nowrap;
+  width: 265px;
+}
+
+.sign-up .overlap-group {
+  height: 76px;
+  left: 777px;
+  position: absolute;
+  top: 299px;
+  width: 365px;
+}
+
+.sign-up .logos {
+  box-shadow: 0px 4px 24px #00000040;
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 365px;
+}
+
+.sign-up .group {
+  background-color: #64a51c;
+  border-radius: 10px;
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.sign-up .group-2 {
+  background-color: #64a51c;
+  border-radius: 10px;
+  height: 74px;
+  left: 97px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.sign-up .group-3 {
+  background-color: #64a51c;
+  border-radius: 10px;
+  height: 74px;
+  left: 194px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.sign-up .group-4 {
+  background-color: #64a51c;
+  border-radius: 10px;
+  height: 74px;
+  left: 291px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.sign-up .twitter-instance {
+  height: 63px !important;
+  left: 293px !important;
+  position: absolute !important;
+  top: 9px !important;
+  width: 70px !important;
+}
+
+.sign-up .facebook-instance {
+  height: 70px !important;
+  left: 109px !important;
+  position: absolute !important;
+  top: 6px !important;
+  width: 52px !important;
+}
+
+.sign-up .google-svgrepo-com {
+  height: 42px;
+  left: 16px;
+  position: absolute;
+  top: 17px;
+  width: 42px;
+}
+
+.sign-up .search-engine-yahoo {
+  height: 44px;
+  left: 209px;
+  position: absolute;
+  top: 15px;
+  width: 44px;
+}
+
+.sign-up .overlap {
+  height: 201px;
+  left: 682px;
+  position: absolute;
+  top: 466px;
+  width: 556px;
+}
+
+.sign-up .password {
+  height: 121px;
+  left: 0;
+  position: absolute;
+  top: 80px;
+  width: 556px;
+}
+
+.sign-up .email {
+  height: 121px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 556px;
+}
